@@ -1,2 +1,2 @@
-An app that lets you see location of ip-address and some additional information.
-the app was built using the leaflet API and geolocation API
+An app that lets you see the location of an ip-address and some additional information.
+The app was built using the leaflet API and geolocation API.
